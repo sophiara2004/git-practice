@@ -34,17 +34,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1802847622B80C4C00A0DD2B /* Get-Practice.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Get-Practice.temp_caseinsensitive_rename.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1802847622B80C4C00A0DD2B /* Git-Practice.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Git-Practice.temp_caseinsensitive_rename.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1802847922B80C4C00A0DD2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1802847B22B80C4C00A0DD2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1802847E22B80C4C00A0DD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1802848022B80C5000A0DD2B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1802848322B80C5000A0DD2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1802848522B80C5000A0DD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1802848A22B80C5000A0DD2B /* Get-Practice.temp_caseinsensitive_renameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Get-Practice.temp_caseinsensitive_renameTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1802848A22B80C5000A0DD2B /* Git-Practice.temp_caseinsensitive_renameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Git-Practice.temp_caseinsensitive_renameTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1802848E22B80C5000A0DD2B /* Get_PracticeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Get_PracticeTests.swift; sourceTree = "<group>"; };
 		1802849022B80C5000A0DD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1802849522B80C5000A0DD2B /* Get-Practice.temp_caseinsensitive_renameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Get-Practice.temp_caseinsensitive_renameUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1802849522B80C5000A0DD2B /* Git-Practice.temp_caseinsensitive_renameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Git-Practice.temp_caseinsensitive_renameUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1802849922B80C5000A0DD2B /* Get_PracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Get_PracticeUITests.swift; sourceTree = "<group>"; };
 		1802849B22B80C5000A0DD2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -87,9 +87,9 @@
 		1802847722B80C4C00A0DD2B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1802847622B80C4C00A0DD2B /* Get-Practice.temp_caseinsensitive_rename.app */,
-				1802848A22B80C5000A0DD2B /* Get-Practice.temp_caseinsensitive_renameTests.xctest */,
-				1802849522B80C5000A0DD2B /* Get-Practice.temp_caseinsensitive_renameUITests.xctest */,
+				1802847622B80C4C00A0DD2B /* Git-Practice.temp_caseinsensitive_rename.app */,
+				1802848A22B80C5000A0DD2B /* Git-Practice.temp_caseinsensitive_renameTests.xctest */,
+				1802849522B80C5000A0DD2B /* Git-Practice.temp_caseinsensitive_renameUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -128,9 +128,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1802847522B80C4C00A0DD2B /* Get-Practice.temp_caseinsensitive_rename */ = {
+		1802847522B80C4C00A0DD2B /* Git-Practice.temp_caseinsensitive_rename */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1802849E22B80C5000A0DD2B /* Build configuration list for PBXNativeTarget "Get-Practice.temp_caseinsensitive_rename" */;
+			buildConfigurationList = 1802849E22B80C5000A0DD2B /* Build configuration list for PBXNativeTarget "Git-Practice.temp_caseinsensitive_rename" */;
 			buildPhases = (
 				1802847222B80C4C00A0DD2B /* Sources */,
 				1802847322B80C4C00A0DD2B /* Frameworks */,
@@ -140,14 +140,14 @@
 			);
 			dependencies = (
 			);
-			name = "Get-Practice.temp_caseinsensitive_rename";
+			name = "Git-Practice.temp_caseinsensitive_rename";
 			productName = "Get-Practice";
-			productReference = 1802847622B80C4C00A0DD2B /* Get-Practice.temp_caseinsensitive_rename.app */;
+			productReference = 1802847622B80C4C00A0DD2B /* Git-Practice.temp_caseinsensitive_rename.app */;
 			productType = "com.apple.product-type.application";
 		};
-		1802848922B80C5000A0DD2B /* Get-Practice.temp_caseinsensitive_renameTests */ = {
+		1802848922B80C5000A0DD2B /* Git-Practice.temp_caseinsensitive_renameTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 180284A122B80C5000A0DD2B /* Build configuration list for PBXNativeTarget "Get-Practice.temp_caseinsensitive_renameTests" */;
+			buildConfigurationList = 180284A122B80C5000A0DD2B /* Build configuration list for PBXNativeTarget "Git-Practice.temp_caseinsensitive_renameTests" */;
 			buildPhases = (
 				1802848622B80C5000A0DD2B /* Sources */,
 				1802848722B80C5000A0DD2B /* Frameworks */,
@@ -158,14 +158,14 @@
 			dependencies = (
 				1802848C22B80C5000A0DD2B /* PBXTargetDependency */,
 			);
-			name = "Get-Practice.temp_caseinsensitive_renameTests";
+			name = "Git-Practice.temp_caseinsensitive_renameTests";
 			productName = "Get-PracticeTests";
-			productReference = 1802848A22B80C5000A0DD2B /* Get-Practice.temp_caseinsensitive_renameTests.xctest */;
+			productReference = 1802848A22B80C5000A0DD2B /* Git-Practice.temp_caseinsensitive_renameTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		1802849422B80C5000A0DD2B /* Get-Practice.temp_caseinsensitive_renameUITests */ = {
+		1802849422B80C5000A0DD2B /* Git-Practice.temp_caseinsensitive_renameUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 180284A422B80C5000A0DD2B /* Build configuration list for PBXNativeTarget "Get-Practice.temp_caseinsensitive_renameUITests" */;
+			buildConfigurationList = 180284A422B80C5000A0DD2B /* Build configuration list for PBXNativeTarget "Git-Practice.temp_caseinsensitive_renameUITests" */;
 			buildPhases = (
 				1802849122B80C5000A0DD2B /* Sources */,
 				1802849222B80C5000A0DD2B /* Frameworks */,
@@ -176,9 +176,9 @@
 			dependencies = (
 				1802849722B80C5000A0DD2B /* PBXTargetDependency */,
 			);
-			name = "Get-Practice.temp_caseinsensitive_renameUITests";
+			name = "Git-Practice.temp_caseinsensitive_renameUITests";
 			productName = "Get-PracticeUITests";
-			productReference = 1802849522B80C5000A0DD2B /* Get-Practice.temp_caseinsensitive_renameUITests.xctest */;
+			productReference = 1802849522B80C5000A0DD2B /* Git-Practice.temp_caseinsensitive_renameUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -204,7 +204,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1802847122B80C4C00A0DD2B /* Build configuration list for PBXProject "Get-Practice" */;
+			buildConfigurationList = 1802847122B80C4C00A0DD2B /* Build configuration list for PBXProject "Git-Practice" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -217,9 +217,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1802847522B80C4C00A0DD2B /* Get-Practice.temp_caseinsensitive_rename */,
-				1802848922B80C5000A0DD2B /* Get-Practice.temp_caseinsensitive_renameTests */,
-				1802849422B80C5000A0DD2B /* Get-Practice.temp_caseinsensitive_renameUITests */,
+				1802847522B80C4C00A0DD2B /* Git-Practice.temp_caseinsensitive_rename */,
+				1802848922B80C5000A0DD2B /* Git-Practice.temp_caseinsensitive_renameTests */,
+				1802849422B80C5000A0DD2B /* Git-Practice.temp_caseinsensitive_renameUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -282,12 +282,12 @@
 /* Begin PBXTargetDependency section */
 		1802848C22B80C5000A0DD2B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1802847522B80C4C00A0DD2B /* Get-Practice.temp_caseinsensitive_rename */;
+			target = 1802847522B80C4C00A0DD2B /* Git-Practice.temp_caseinsensitive_rename */;
 			targetProxy = 1802848B22B80C5000A0DD2B /* PBXContainerItemProxy */;
 		};
 		1802849722B80C5000A0DD2B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1802847522B80C4C00A0DD2B /* Get-Practice.temp_caseinsensitive_rename */;
+			target = 1802847522B80C4C00A0DD2B /* Git-Practice.temp_caseinsensitive_rename */;
 			targetProxy = 1802849622B80C5000A0DD2B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -478,7 +478,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Get-Practice.temp_caseinsensitive_rename.app/Get-Practice.temp_caseinsensitive_rename";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Git-Practice.temp_caseinsensitive_rename.app/Git-Practice.temp_caseinsensitive_rename";
 			};
 			name = Debug;
 		};
@@ -498,7 +498,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Get-Practice.temp_caseinsensitive_rename.app/Get-Practice.temp_caseinsensitive_rename";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Git-Practice.temp_caseinsensitive_rename.app/Git-Practice.temp_caseinsensitive_rename";
 			};
 			name = Release;
 		};
@@ -543,7 +543,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1802847122B80C4C00A0DD2B /* Build configuration list for PBXProject "Get-Practice" */ = {
+		1802847122B80C4C00A0DD2B /* Build configuration list for PBXProject "Git-Practice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1802849C22B80C5000A0DD2B /* Debug */,
@@ -552,7 +552,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1802849E22B80C5000A0DD2B /* Build configuration list for PBXNativeTarget "Get-Practice.temp_caseinsensitive_rename" */ = {
+		1802849E22B80C5000A0DD2B /* Build configuration list for PBXNativeTarget "Git-Practice.temp_caseinsensitive_rename" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1802849F22B80C5000A0DD2B /* Debug */,
@@ -561,7 +561,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		180284A122B80C5000A0DD2B /* Build configuration list for PBXNativeTarget "Get-Practice.temp_caseinsensitive_renameTests" */ = {
+		180284A122B80C5000A0DD2B /* Build configuration list for PBXNativeTarget "Git-Practice.temp_caseinsensitive_renameTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				180284A222B80C5000A0DD2B /* Debug */,
@@ -570,7 +570,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		180284A422B80C5000A0DD2B /* Build configuration list for PBXNativeTarget "Get-Practice.temp_caseinsensitive_renameUITests" */ = {
+		180284A422B80C5000A0DD2B /* Build configuration list for PBXNativeTarget "Git-Practice.temp_caseinsensitive_renameUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				180284A522B80C5000A0DD2B /* Debug */,
